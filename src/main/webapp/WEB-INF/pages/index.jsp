@@ -86,17 +86,18 @@
       <p><i>Por que no puede ser tu canino amigo elegante tambien?</i></p>
     </div>
     <div class="page-header">
-      <h1>Our Products</h1>
+      <h1>Nuestros Productos</h1>
     </div>
 
     <div class="row">
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Enjoy a Night on the Town</h3>
+            <h3 class="panel-title">Disfrute una noche por la ciudad</h3>
           </div>
           <div class="panel-body">
-            Meeting your special someone? Make sure your dog looks the part!
+            Conociendo a alguien especial? Asegurese que su perro luzca acorde a la 
+            ocasion!            
             <img src="images/casual-dog2.png" style="width:236px;height:295px;">
           </div>
         </div>
@@ -107,7 +108,7 @@
             <h3 class="panel-title">Great for Family Photos</h3>
           </div>
           <div class="panel-body">
-            With suits these fashionable, no one will question why your pet is there!
+            Con estos trajes tan elegantes, nadie preguntara por que su perro esta alli!
             <img src="images/fancy-dog3.png" style="width:295px;height:433px;">
           </div>
         </div>
@@ -115,11 +116,11 @@
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Free alterations</h3>
+            <h3 class="panel-title">Aletraciones gratuitas</h3>
           </div>
           <div class="panel-body">
-            Don't let this happen to your pooch! 
-            Every purchase comes with free custom alterations to ensure a comfortable and snazzy fit.
+            No deje que esto le pase a su mascota! 
+            Cada compra viene con alteraciones customizables gratuitas para asegurar un comodo ajuste.
             <img src="images/alterations-dog4.png" style="width:287px;height:300px;">
           </div>
         </div>
