@@ -82,8 +82,8 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Bespoke Suits for Dogs</h1>
-      <p><i>Why can't your canine companion be classy too?</i></p>
+      <h1>Bespoke: Trajes para perros</h1>
+      <p><i>Por que no puede ser tu canino amigo elegante tambien?</i></p>
     </div>
     <div class="page-header">
       <h1>Our Products</h1>
