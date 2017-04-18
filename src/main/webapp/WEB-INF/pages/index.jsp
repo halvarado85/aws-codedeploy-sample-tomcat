@@ -82,7 +82,7 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Bespoke Trajes para perros</h1>
+      <h1>Bespoke Trajes para mascotas</h1>
       <p><i>Por qu mi compaÑero canino no puede ser también clasudo?</i></p>
     </div>
     <div class="page-header">
